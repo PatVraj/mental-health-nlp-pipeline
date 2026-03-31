@@ -40,4 +40,4 @@ pip install torch transformers peft accelerate
 - Model weights subject to Meta's LLaMA license.
 
 ## Collaborators
-- Vraj Patel
+- Vraj Patel, Nikhil Chakka
