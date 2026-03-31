@@ -3,6 +3,8 @@
 ## Overview
 An interactive Deep Learning application designed to act as a health chatbot. It processes user text input, analyzes intents, and provides relevant health-related suggestions using neural networks. This repository also includes the fine-tuning pipeline for the LLaMA 3.2 1B model, adapting it to generate highly contextual and domain-specific text for mental health classification.
 
+[📄 View the Mental Health Chatbot Research Paper](./mental-health-classification-chatbot.pdf)
+
 ## Architecture / Tech Stack
 - **Language**: Python
 - **Deep Learning / NLP**: TensorFlow/Keras, PyTorch, Hugging Face Transformers
